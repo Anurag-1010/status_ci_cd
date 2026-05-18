@@ -7,7 +7,7 @@ const CompanyPolicy = () => {
       {/* Top Card */}
       <div className="bg-white rounded-xl shadow-sm p-6 mb-6">
         <h1 className="text-2xl font-semibold text-gray-800">
-          Company Policy
+          My Policy
         </h1>
         <p className="text-gray-500 mt-1 text-sm">
           Last updated: Aug 14, 2025 12:26
